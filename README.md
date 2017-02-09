@@ -24,5 +24,7 @@ sayHello('Joe');
 ```
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#Closure]
+
 Youtube - 9.3: JavaScript Closure - p5.js Tutorial - [https://www.youtube.com/watch?v=-jysK0nlz7A]
+
 Reliable JavaScript : How to Code Safely in the World's Most Dangerous Language, Spencer, Lawrence, Richards, Seth - Wrox 2015
